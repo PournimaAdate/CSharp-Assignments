@@ -1,0 +1,89 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\C# Training\\BrowserCommands\\CommandsProject\\CommandsProject.csproj": {}
+  },
+  "projects": {
+    "d:\\C# Training\\BrowserCommands\\CommandsProject\\CommandsProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\C# Training\\BrowserCommands\\CommandsProject\\CommandsProject.csproj",
+        "projectName": "CommandsProject",
+        "projectPath": "d:\\C# Training\\BrowserCommands\\CommandsProject\\CommandsProject.csproj",
+        "packagesPath": "C:\\Users\\pournima.adate\\.nuget\\packages\\",
+        "outputPath": "d:\\C# Training\\BrowserCommands\\CommandsProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pournima.adate\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.NETCore.Platforms": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview4.19212.13, )",
+              "autoReferenced": true
+            },
+            "Selenium.Chrome.WebDriver": {
+              "target": "Package",
+              "version": "[2.46.0, )"
+            },
+            "Selenium.Firefox.WebDriver": {
+              "target": "Package",
+              "version": "[0.24.0, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "runtime.win-x64.Microsoft.NETCore.DotNetAppHost": {
+              "include": "None",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview4-27615-11, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": [
+            "Microsoft.NETCore.App"
+          ]
+        }
+      }
+    }
+  }
+}

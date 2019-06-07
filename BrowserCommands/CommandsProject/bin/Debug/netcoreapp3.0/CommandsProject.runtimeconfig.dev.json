@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\pournima.adate\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\pournima.adate\\.nuget\\packages"
+    ]
+  }
+}

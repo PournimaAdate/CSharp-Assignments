@@ -1,0 +1,16 @@
+d:\C# Training\BrowserCommands\CommandsProject\bin\Debug\netcoreapp3.0\CommandsProject.exe
+d:\C# Training\BrowserCommands\CommandsProject\bin\Debug\netcoreapp3.0\CommandsProject.deps.json
+d:\C# Training\BrowserCommands\CommandsProject\bin\Debug\netcoreapp3.0\CommandsProject.runtimeconfig.json
+d:\C# Training\BrowserCommands\CommandsProject\bin\Debug\netcoreapp3.0\CommandsProject.runtimeconfig.dev.json
+d:\C# Training\BrowserCommands\CommandsProject\bin\Debug\netcoreapp3.0\CommandsProject.dll
+d:\C# Training\BrowserCommands\CommandsProject\bin\Debug\netcoreapp3.0\CommandsProject.pdb
+d:\C# Training\BrowserCommands\CommandsProject\obj\Debug\netcoreapp3.0\CommandsProject.csprojAssemblyReference.cache
+d:\C# Training\BrowserCommands\CommandsProject\obj\Debug\netcoreapp3.0\CommandsProject.csproj.CoreCompileInputs.cache
+d:\C# Training\BrowserCommands\CommandsProject\obj\Debug\netcoreapp3.0\CommandsProject.AssemblyInfoInputs.cache
+d:\C# Training\BrowserCommands\CommandsProject\obj\Debug\netcoreapp3.0\CommandsProject.AssemblyInfo.cs
+d:\C# Training\BrowserCommands\CommandsProject\obj\Debug\netcoreapp3.0\CommandsProject.dll
+d:\C# Training\BrowserCommands\CommandsProject\obj\Debug\netcoreapp3.0\CommandsProject.pdb
+d:\C# Training\BrowserCommands\CommandsProject\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+d:\C# Training\BrowserCommands\CommandsProject\bin\Debug\netcoreapp3.0\WebDriver.Support.dll
+d:\C# Training\BrowserCommands\CommandsProject\bin\Debug\netcoreapp3.0\WebDriver.dll
+d:\C# Training\BrowserCommands\CommandsProject\obj\Debug\netcoreapp3.0\CommandsProject.csproj.CopyComplete
